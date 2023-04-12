@@ -32,7 +32,7 @@ git clone https://github.com/CVJohansson/mobius-boost-script.git
 
 ## Install the dependencies:
 ```shell
-cd mobius-boost
+cd mobius-boost-script
 npm install
 ```
 
