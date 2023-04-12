@@ -27,7 +27,7 @@ Before running the script, you need to install the following dependencies:
 
 ## Clone the repository:
 ```shell
-git clone https://github.com/yourusername/mobius-boost.git
+git clone https://github.com/CVJohansson/mobius-boost.git
 ```
 
 ## Install the dependencies:
