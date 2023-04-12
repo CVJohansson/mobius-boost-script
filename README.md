@@ -36,6 +36,9 @@ cd mobius-boost-script
 npm install
 ```
 
+## Modify your parameters
+
+
 ## Usage
 ```shell
 npm start
